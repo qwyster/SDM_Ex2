@@ -24,8 +24,6 @@ public class Leaf<T extends AbstractSQLValue> extends LeafBase<T>{
 
 	@Override
 	public AbstractRecord lookup(T key) {
-		//TODO: implement this method
-		
 		return null;
 	}
 	
